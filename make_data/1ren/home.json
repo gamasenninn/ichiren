@@ -1,0 +1,58 @@
+[
+  {
+    "category": "お知らせ",
+    "subcateg": "NEW",
+    "title": "一蓮弁当配達はじめました",
+    "content": "",
+    "price": 0,
+    "add_letter": "",
+    "layout": "",
+    "pickup": "",
+    "date": "2020-03-31 00:00:00",
+    "image": "",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "category": "お知らせ",
+    "subcateg": "NEW",
+    "title": "ホームページがあたらしくなりました",
+    "content": "",
+    "price": 0,
+    "add_letter": "",
+    "layout": "",
+    "pickup": "",
+    "date": "2020-03-31 00:00:00",
+    "image": "",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "category": "お知らせ",
+    "subcateg": "トピックス",
+    "title": "一蓮弁当配達はじめました",
+    "content": "会議、お打ち合わせなどに最適\n1200円から承ります",
+    "price": 0,
+    "add_letter": "",
+    "layout": "",
+    "pickup": "",
+    "date": "2020-03-31 00:00:00",
+    "image": "",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "category": "お知らせ",
+    "subcateg": "トピックス",
+    "title": "ご自宅で本格日本料理",
+    "content": "宅配も承ります\nご自宅でゆっくり日本料理をお楽しみください",
+    "price": 1200,
+    "add_letter": "円～",
+    "layout": "",
+    "pickup": "",
+    "date": "2020-03-31 00:00:00",
+    "image": "",
+    "before_html": "",
+    "after_html": ""
+  }
+]

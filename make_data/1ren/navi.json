@@ -1,0 +1,22 @@
+[
+  {
+    "title": "ホーム",
+    "title_en": "HOME",
+    "url": "index.html"
+  },
+  {
+    "title": "お食事",
+    "title_en": "MENU",
+    "url": "menu.html"
+  },
+  {
+    "title": "お飲み物",
+    "title_en": "DRINK",
+    "url": "drink.html"
+  },
+  {
+    "title": "ご予約・アクセス",
+    "title_en": "ACCESS",
+    "url": "access.html"
+  }
+]

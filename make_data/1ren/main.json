@@ -1,0 +1,122 @@
+[
+  {
+    "title": "日替り膳",
+    "content": "平日お昼のみとなります。\n限定15食\nソフトドリンクサービス\n(コーヒーもしくはリンゴジュース)\nご飯のお替りは全ての商品ご遠慮なくお申し付けください。",
+    "price": 1000,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット",
+    "set_price": 1500,
+    "add_letter2": "円",
+    "image": "images/higawari.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "一連弁当",
+    "content": "お昼のみとなります。\n・小鉢　・刺身　・焼物\n・天ぷら　・ご飯　・新香　・汁\n・デザート（フルーツもしくはアイスクリーム）\n・ソフトドリンク（平日限定）",
+    "price": 1450,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 1750,
+    "add_letter2": "円",
+    "image": "images/1renbento.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "刺身御膳",
+    "content": "小鉢\n刺身\n茶碗蒸し\nご飯　・お新香　・汁\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 1800,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 2100,
+    "add_letter2": "円",
+    "image": "images/sashimigozen.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "大海老天ぷら御膳",
+    "content": "小鉢\n大海老天ぷら\n茶碗蒸し\nご飯　・お新香　・汁\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 1800,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 2100,
+    "add_letter2": "円",
+    "image": "images/ebigozen.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "華(刺身・天ぷら御膳)",
+    "content": "小鉢\n刺身\n天ぷら\n茶碗蒸し\nご飯　・お新香　・汁\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 2200,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 2500,
+    "add_letter2": "円",
+    "image": "images/hana.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "松花堂弁当",
+    "content": "小鉢\n四つ切弁当に\n　小八寸お造り\n　揚げ物　ご飯　香物\n煮物\n茶碗蒸し\n汁",
+    "price": 3000,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 3300,
+    "add_letter2": "円",
+    "image": "images/shokado.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "鹿苑-ろくおん-（会席御膳）",
+    "content": "先付\n前茶\nお造り\n焼物\n煮物\n揚物\n茶碗蒸し\nご飯　・お新香　・汁\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 3300,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 3600,
+    "add_letter2": "円",
+    "image": "images/rokuon.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "大海老フライ御膳",
+    "content": "刺身\n茶碗蒸し\nご飯　・お新香　・汁\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 2200,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 2500,
+    "add_letter2": "円",
+    "image": "images/ebifly.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "豚ひれかつ御膳\n(又は串かつ)",
+    "content": "刺身\n茶碗蒸し\nご飯　・お新香　・汁\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 2200,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 2500,
+    "add_letter2": "円",
+    "image": "images/hirekatu.jpg",
+    "before_html": "",
+    "after_html": ""
+  },
+  {
+    "title": "鰻重",
+    "content": "酢の物\n肝吸\n新香\nデザート（フルーツもしくはアイスクリーム）",
+    "price": 3500,
+    "add_letter": "円",
+    "set_menu": "あんみつか葛切りとのセット\n(あんみつをセットに変更)",
+    "set_price": 3800,
+    "add_letter2": "円",
+    "image": "images/unaju.jpg",
+    "before_html": "",
+    "after_html": ""
+  }
+]
